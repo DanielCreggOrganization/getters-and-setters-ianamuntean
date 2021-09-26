@@ -1,3 +1,3 @@
 public class Main {
-    // Main method comment
+    // Main method comments
 }
